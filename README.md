@@ -33,8 +33,8 @@ A simple batch script to download streaming videos from a list of URLs using `ff
    Add the URLs of the videos you want to download. Each URL should be on a separate line, for example:
 
    ```bash
-   https://example.com/video1.m3u8
-   https://example.com/video2.m3u8
+    https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+    https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
    ```
 
 2. **Run the batch script**:
